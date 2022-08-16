@@ -1,2 +1,2 @@
 # Bootstrap_Odev2
-Kodluyoruz - Bootstrap ile Web Sitesine Devaö
+Kodluyoruz - Bootstrap ile Web Sitesine Devam
